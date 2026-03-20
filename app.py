@@ -215,7 +215,7 @@ st.markdown("""
 }
 [data-testid="stSidebar"] * { font-family: var(--mono) !important; }
 
-.st-emotion-cache-12bp31y {
+.exvv1vr0 {
     display: none;
 }
 
