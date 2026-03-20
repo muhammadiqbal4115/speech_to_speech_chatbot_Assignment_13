@@ -215,6 +215,10 @@ st.markdown("""
 }
 [data-testid="stSidebar"] * { font-family: var(--mono) !important; }
 
+.st-emotion-cache-12bp31y {
+    display: none;
+}
+
 .sidebar-logo {
   font-family: var(--display);
   font-size: 1.5rem;
